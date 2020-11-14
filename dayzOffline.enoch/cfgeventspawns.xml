@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<eventposdef>
+    <event name="StaticHeliCrash">
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
+		<pos x="11768.56" z="10358.93" a="-1" />
+		<pos x="11684.17" z="10245.24" a="236.599503" />
+		<pos x="11636.66" z="5393.447754" a="0" />
+		<pos x="11459.52" z="10055.75" a="298.912109" />
+		<pos x="11375.52" z="10683.99" a="-1" />
+		<pos x="11240.03" z="10669.92" a="168.518341" />
+		<pos x="11253.23" z="10533.18" a="-1" />
+		<pos x="11276.28" z="10269.07" a="10.140474" />
+		<pos x="11365.36" z="10140.92" a="-1" />
+		<pos x="11412.25" z="10135.06" a="329.921448" />
+		<pos x="11352.47" z="10219.45" a="-1" />
+		<pos x="11526.9" z="10651.8" a="173.7" />
+	</event>
+    <event name="StaticPoliceCar">
+		<pos x="6488.11377" z="11279.327148" a="331.097137" />
+		<pos x="6359.906" z="10970.853" a="67.064" />
+		<pos x="6338.02002" z="9893.797851" a="26.01256" />
+	</event>
+	<event name="StaticChristmasTree">
+		<pos x="3323.97" z="2047.84" a="0.0" />
+		<pos x="5942.53" z="4084.70" a="0.0" />
+		<pos x="6189.74" z="4148.12" a="0.0" />
+		<pos x="11526.83" z="4588.30" a="0.0" />
+	</event>
+	<event name="ItemPlanks">
+		<pos x="2065.075196" z="11303.21289" a="359.118408" />
+		<pos x="8194.148438" z="10796.999023" a="348.536835" />
+	</event>
+    <event name="VehicleOffroadHatchback">
+		<pos x="3263.912597" z="12382.653321" a="244.633545" />
+		<pos x="10787.911133" z="12598.078126" a="289.163513" />
+		<pos x="2242.233642" z="10704.200196" a="272.605591" />
+		<pos x="3693.978516" z="6355.803223" a="324.532776" />
+	</event>
+	<event name="VehicleHatchback02">
+		<pos x="3405.335205" z="12239.047851" a="189.571152" />
+		<pos x="3639.310303" z="11802.885742" a="54.817448" />
+		<pos x="9254.830078" z="10865.328125" a="1.861515" />
+	</event>
+	<event name="VehicleCivilianSedan">
+		<pos x="8475.086914" z="12021.825195" a="98.171761" />
+		<pos x="6400.875" z="11015.832" a="87.982" />
+		<pos x="1454.454834" z="7873.223632" a="169.339111" />
+		<pos x="7979.476074" z="11590.756836" a="306.358276" />
+	</event>
+	<event name="VehicleSedan02">
+		<pos x="5951.605957" z="8062.506348" a="297.589417" />
+		<pos x="8125.31543" z="8721.020507" a="96.457161" />
+		<pos x="1092.979615" z="5695.035644" a="63.047398" />
+	</event>
+	<event name="StaticBuildingEXBA1" >
+		<pos x="11438.3" z="10297.9" a="55" />
+	</event>
+	<event name="StaticBuildingEXBA2" >
+		<pos x="11572.8" z="10409.4" a="0" />
+	</event>
+	<event name="StaticBuildingA" >
+		<pos x="11345.6" z="10266.9" a="58" />
+	</event>
+	<event name="StaticBuildingB" >
+		<pos x="11374.5" z="10237.5" a="58" />
+	</event>
+	<event name="StaticBuildingC" >
+		<pos x="11398.1" z="10278.2" a="150" />
+	</event>
+	<event name="StaticBuildingD" >
+		<pos x="11427.8" z="10227" a="150" />
+	</event>
+	<event name="StaticBuildingE" >
+		<pos x="11371" z="10341.6" a="108" />
+	</event>
+	<event name="StaticBuildingF" >
+		<pos x="11421.7" z="10339.7" a="85" />
+	</event>
+	<event name="StaticBuildingG" >
+		<pos x="11471.5" z="10354.4" a="176" />
+	</event>
+	<event name="StaticBuildingH" >
+		<pos x="11482.7" z="10305.5" a="55" />
+	</event>
+	<event name="StaticBuildingI" >
+		<pos x="11536.9" z="10303.7" a="123" />
+	</event>
+	<event name="StaticBuildingJ" >
+		<pos x="11550.3" z="10347.7" a="0" />
+	</event>
+	<event name="StaticBuildingK" >
+		<pos x="11594.4" z="10363.4" a="150" />
+	</event>
+	<event name="StaticBuildingL" >
+		<pos x="11620.8" z="10386.2" a="3" />
+	</event>
+	<event name="StaticBuildingM" >
+		<pos x="11517.7" z="10483.7" a="100" />
+	</event>
+	<event name="StaticBuildingN" >
+		<pos x="11500.5" z="10542.2" a="87" />
+	</event>
+	<event name="StaticBuildingO" >
+		<pos x="11467.6" z="10591.1" a="24" />
+	</event>
+	<event name="StaticBuildingP" >
+		<pos x="11433.8" z="10568.6" a="0" />
+	</event>
+	<event name="StaticBuildingQ" >
+		<pos x="11414.6" z="10598.7" a="15" />
+	</event>
+	<event name="StaticBuildingR" >
+		<pos x="11414.6" z="10598.7" a="15" />
+	</event>
+	<event name="StaticLand_Office_Municipal1" >
+		<pos x="11402.5" z="10194" a="0" />
+	</event>
+	<event name="StaticLand_Office_Municipal1b" >
+		<pos x="11411.6" z="10658.8" a="0" />
+	</event>
+	<event name="StaticBuildingShip" >
+		<pos x="11414.9" z="10395.8" a="200" />
+	</event>
+	<event name="StaticBuildingShip2" >
+		<pos x="11416.3" z="10532.2" a="100" />
+	</event>
+	<event name="StaticBuildingShip3" >
+		<pos x="11350" z="10631.6" a="180" />
+	</event>
+	<event name="StaticTowerConcrete" >
+		<pos x="11238.39" z="10683.21" a="0" />
+	</event>
+	<event name="StaticWaterPumpBlue" >
+		<pos x="11468.1" z="10157.6" a="0" />
+	</event>
+	<event name="StaticWaterPumpBlue2" >
+		<pos x="11456.4" z="10165.8" a="0" />
+	</event>
+	<event name="StaticWaterPumpBlue3" >
+		<pos x="11319.26" z="10274.15" a="0" />
+	</event>
+	<event name="StaticWaterPumpBlue4" >
+		<pos x="11343" z="10445.9" a="0" />
+	</event>
+	<event name="StaticRuinHouseA" >
+		<pos x="11413.3" z="10379.1" a="0" />
+	</event>
+	<event name="StaticRuinHouseB" >
+		<pos x="11390.4" z="10393.7" a="19" />
+	</event>
+	<event name="StaticRuinHouseC" >
+		<pos x="11329.42" z="10629.68" a="0" />
+	</event>
+	<event name="StaticRuinHouseD" >
+		<pos x="11288.00" z="10642.18" a="19" />
+	</event>
+	<event name="StaticRuinHouseE" >
+		<pos x="11374.66" z="10515.05" a="0" />
+	</event>
+	<event name="StaticRuinHouseF" >
+		<pos x="11398.96" z="10466.37" a="19" />
+	</event>
+</eventposdef>
